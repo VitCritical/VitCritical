@@ -18,7 +18,6 @@ goal:       Ship real-world projects that matter
 ---
 
 ### GitHub Stats
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VitCritical&theme=tokyonight&&hide_border=false&border=116bfa" />
 </div>
@@ -39,11 +38,18 @@ goal:       Ship real-world projects that matter
 
 <div align="center">
 
-[![Mail](https://skillicons.dev/icons?i=gmail)](https://mailto:vexithreddy@email.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vexith-reddy-tuvva/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/vitcritical)
+<a href="mailto:vexithreddy@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" />
+</a>
+<a href="https://www.linkedin.com/in/vexith-reddy-tuvva/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://x.com/vitcritical" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+</a>
 
 </div>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VitCritical&color=116bfa&style=flat-square&label=Profile+Views" />
