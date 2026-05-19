@@ -38,7 +38,7 @@ goal:       Ship real-world projects that matter
 
 <div align="center">
 
-<a href="mailto:vexithreddy@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vexithreddy@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" />
 </a>
 <a href="https://www.linkedin.com/in/vexith-reddy-tuvva/" target="_blank">
