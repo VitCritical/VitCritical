@@ -17,13 +17,6 @@ goal:       Ship real-world projects that matter
 
 ---
 
-### GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VitCritical&theme=tokyonight&&hide_border=false&border=116bfa" />
-</div>
-
----
-
 ### Tech Stack
 
 <p align="center">
